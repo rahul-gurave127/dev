@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
-"""Michelin Guide data preprocessor.
-Parses XML data and exports addresses and coordinates
-"""
 import os
 import csv
 from glob import glob
